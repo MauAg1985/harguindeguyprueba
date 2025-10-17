@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-10-17T06:00:56.907Z",
+  "created_by": "MauAg1985",
+  "title": "harguindeguy_prueba",
+  "slug": "harguindeguyprueba",
+  "updated_at": "2025-10-17T06:00:56.907Z",
+  "updated_by": "MauAg1985",
+  "parent": "6f9ae3a9-1d7c-485e-9c9a-a6dccda1e29f",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "5e08ab92-11c2-4784-a7ca-05eb8d3e6c31"
+  }
+}
